@@ -1,0 +1,110 @@
+*{background-color:#1b8ff2;
+margin:0;
+padding:0;}
+
+    #menu{
+		background-color:#1b8ff2;
+		float:left;
+		width:354px;
+		height:758px;
+	}
+	
+	#falci{
+		float:right;
+		width:1165px;
+		height:758px;
+	}
+	#solust{
+		float:top;
+		width:371px;
+		height:250px;
+		background-color:white;
+	}
+	#goz{
+		width:150px;
+		height:150px;
+		float:top;
+		margin-top:10px;
+		margin-left:100px;
+		background-color:white;
+	}
+	#falciyazi{
+		float:left;
+		margin-left:105px;
+		font-size:200%;
+		background-color:white;
+	}
+	#falciyazi2{
+		float:left;
+		float:bottom;
+		margin-left:130px;
+		background-color:white;
+	}
+	#ev{
+		float:left;
+		margin-top:10px;
+		margin-left:5px;
+	
+		
+	}
+	#adam{
+		float:left;
+		margin-top:40px;
+		margin-left:-15px;
+		
+	}
+	#fal{
+		float:left;
+		margin-top:70px;
+		margin-left:-15px;
+		
+	}
+	#rehber{
+		float:left;
+		margin-top:100px;
+		margin-left:-15px;
+		
+		
+	}
+	#home{
+		float:right;
+		float:top;
+		margin-top:10px;
+		margin-right:260px;
+	}
+	#info{
+		float:right;
+		float:top;
+		margin-top:40px;
+		margin-right:260px;
+		margin-top:10px;
+		
+	}
+	#faltur{
+		float:right;
+		float:top;
+		margin-top:70px;
+		margin-right:243px;
+		margin-top:15px;
+		
+	}
+	#contac{
+		float:right;
+		float:top;
+		margin-top:100px;
+		margin-right:273px;
+		margin-top:8px;
+		
+		
+	}
+	#gelecek{
+		float:right;
+		float:top;
+	
+	}
+	#gelecekgoz{
+		float:right;
+		float:top;
+		margin-top:100px;
+	}
+	
